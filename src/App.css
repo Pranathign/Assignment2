@@ -7,7 +7,7 @@ body {
 }
 
 nav {
-  background-color: #ffe699;
+  background-color: #bd587f;
   padding: 1rem;
 }
 
@@ -23,11 +23,11 @@ nav ul {
 
 nav a {
   text-decoration: none;
-  color: #000;
+  color: #d675c1;
 }
 
 .category-card {
-  border: 1px solid #ddd;
+  border: 1px solid #abc578;
   padding: 1rem;
   margin: 1rem;
   border-radius: 5px;
@@ -35,8 +35,8 @@ nav a {
 }
 
 footer {
-  background-color: #333;
-  color: #fff;
+  background-color: #b57aca;
+  color: #82bad1;
   text-align: center;
   padding: 1rem 0;
   margin-top: 1rem;
@@ -50,9 +50,9 @@ footer {
 /* src/components/CakeCard.css */
 .cake-card {
   width: 300px;
-  background-color: #fff;
+  background-color: #4944b2;
   border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 8px rgba(110, 223, 202, 0.1);
   overflow: hidden;
   transition: transform 0.2s ease-in-out;
   margin: 20px;
@@ -66,7 +66,7 @@ footer {
   width: 100%;
   height: 200px;
   object-fit: cover; /* Ensures the image covers the container */
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #5cd5a7;
 }
 
 .cake-card-body {
@@ -75,20 +75,20 @@ footer {
 
 .cake-card-body h4 {
   font-size: 1.2rem;
-  color: #333;
+  color: #504ba6;
   margin: 10px 0;
 }
 
 .cake-card-body p {
   font-size: 1rem;
-  color: #666;
+  color: #81cb7e;
   margin-bottom: 10px;
 }
 
 .cake-price {
   font-size: 1.2rem;
   font-weight: bold;
-  color: #e63946; /* Price color */
+  color: #a8569f; /* Price color */
   margin-bottom: 20px;
 }
 
@@ -101,12 +101,12 @@ footer {
 .cake-card-footer input {
   width: 50px;
   padding: 5px;
-  border: 1px solid #ddd;
+  border: 1px solid #b8d76a;
   border-radius: 5px;
 }
 
 .cake-card-footer button {
-  background-color: #e63946;
+  background-color: #3f917f;
   color: white;
   padding: 10px;
   border: none;
@@ -116,7 +116,7 @@ footer {
 }
 
 .cake-card-footer button:hover {
-  background-color: #d42c37;
+  background-color: #3fa7a1;
 }
 /* src/components/CakeCard.css */
 .cake-card {
@@ -124,7 +124,7 @@ footer {
   height:  auto;
   background-color: #fff;
   border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 4px 8px rgba(225, 86, 86, 0.1);
   overflow: hidden;
   transition: transform 0.2s ease-in-out;
   margin: 10px;
